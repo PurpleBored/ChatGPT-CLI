@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "L8JhwFF1XMKSaTAkRy0+Vl7J1RmwPhLUeAgkmsUoeKp20wLmjUnwRLOZKf1z8JTysysKqJiosDg1ONdZUO+oOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\purpl\\source\\repos\\ChatGPT-CLI\\ChatGPT-CLI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\purpl\\.nuget\\packages\\dotenv.net\\3.1.2\\dotenv.net.3.1.2.nupkg.sha512",
+    "C:\\Users\\purpl\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
